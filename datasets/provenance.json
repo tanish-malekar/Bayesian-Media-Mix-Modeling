@@ -1,0 +1,6 @@
+{
+  "url": "https://raw.githubusercontent.com/facebookexperimental/Robyn/cb08ab39d829453377808a70bf1a2adc40c8480b/python/src/robyn/tutorials/resources/dt_simulated_weekly.csv",
+  "commit": "cb08ab39d829453377808a70bf1a2adc40c8480b",
+  "sha256": "d541cfa92ca68fbda03ce6c987733e996b3abf44a95f2a32ce6836b9f8258cf1",
+  "source": "Meta Robyn simulated weekly demo dataset"
+}
