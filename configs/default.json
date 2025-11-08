@@ -1,0 +1,6 @@
+{
+  "holdout_weeks": 26,
+  "fourier_order": 3,
+  "sampling": {"draws": 1000, "tune": 1000, "chains": 4, "cores": 4, "target_accept": 0.95, "seed": 42},
+  "allocation": {"horizon_weeks": 13, "baseline_weeks": 8, "lower_multiplier": 0.5, "upper_multiplier": 1.5, "posterior_draws": 256, "restarts": 5}
+}
